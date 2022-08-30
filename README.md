@@ -1,2 +1,2 @@
 # sarcasm_detector
-A simple web portal for sarcasm detector
+A web portal to detect sarcasm in news headlines.
